@@ -6,8 +6,6 @@ Your browser does not support the video tag.
 </video>
 
   &#xa0;
-
-  <a href="https://bentility.vercel.app">Demo</a>
 </div>
 
 <h1 align="center">Bentility</h1>
