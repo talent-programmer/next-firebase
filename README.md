@@ -81,7 +81,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [
 
 ```bash
 # Clone this project
-$ git clone https://github.com/qbentil/bentility
+$ git clone https://github.com/talent-programmer/next-firebase
 
 # Access
 $ cd bentility
@@ -97,32 +97,6 @@ $ npm run dev
 ![image](https://user-images.githubusercontent.com/55560024/170698745-72270c45-d37e-41d4-aac6-e32cab36682c.png)
 
 ## :memo: License ##
-
-This project is not 
-
-
-## :memo: Contributors
-
-These wonderful people have contributed to this project:
-<!-- readme: contributors -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/qbentil">
-            <img src="https://avatars.githubusercontent.com/u/55560024?v=4" width="100;" alt="qbentil"/>
-            <br />
-            <sub><b>Bentil Shadrack</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/neophyte-programmer">
-            <img src="https://avatars.githubusercontent.com/u/88439064?v=4" width="100;" alt="neophyte-programmer"/>
-            <br />
-            <sub><b>Nutifafa Afi Attor</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: contributors -end -->
 
 &#xa0;
 
